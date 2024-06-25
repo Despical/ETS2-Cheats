@@ -24,7 +24,7 @@ A console application that modifies money and exp amounts of a ETS 2 profile by 
 ## License
 This code is under [GPL-3.0 License](http://www.gnu.org/licenses/gpl-3.0.html)
 
-See the [LICENSE](https://github.com/Despical/CommandFramework/blob/main/LICENSE) file for required notices and attributions.
+See the [LICENSE](https://github.com/Despical/ETS2-Cheats/blob/main/LICENSE) file for required notices and attributions.
 
 ## Libraries Used
 * [Swed64](https://github.com/Massivetwat/Swed64) - Makes ReadProcessMemory and WriteProcessMemory easier for C#.
